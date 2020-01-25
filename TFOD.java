@@ -21,7 +21,7 @@ public class TFOD extends LinearOpMode {
     private static final String LABEL_SECOND_ELEMENT = "Skystone";
 
   
-    private static final String VUFORIA_KEY = "ARuUo33/////AAABmVhNXTc0uk+8s0Rs9CraP7Bx/PuF9uszW3ygzElHauDx7Rr09w9ZA3sdHzC4U4tFpQ8jqpVqQPKwF9hzcRlNouxFJx+ZelnpTt1Ol9VYsSgDh/rpKNKN9VwNZ49UVMv3P8f1qbss86TidfH5CffA4tEsKkIezMBrt+/b2303ZH4xA0TDk4rcpa4bm8Sffj5c3mzmXdxSDRhmMiVA964KZNwu2ksmDR1BaQhz4BFfZM0OgCUEv0tzUEzsKDe+ebSIy8oHoS8EGGHFq+/Kto0iRON5o4UfwlyRtuEzObVKM+f6bFSpC8SfSPcEWrRgjyVUo1EVSmYCemuyq6P8mVEOqKHKkITKgNQSjyT/u7POOlRC";
+    private static final String VUFORIA_KEY = "";
             
     /**
      * {@link #vuforia} is the variable we will use to store our instance of the Vuforia
